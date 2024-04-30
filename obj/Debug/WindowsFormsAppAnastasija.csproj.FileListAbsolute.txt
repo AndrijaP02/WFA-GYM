@@ -1,0 +1,12 @@
+C:\Users\andri\Downloads\Projekat\Projekat\bin\Debug\WindowsFormsAppAnastasija.exe.config
+C:\Users\andri\Downloads\Projekat\Projekat\bin\Debug\WindowsFormsAppAnastasija.exe
+C:\Users\andri\Downloads\Projekat\Projekat\bin\Debug\WindowsFormsAppAnastasija.pdb
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.csproj.AssemblyReference.cache
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.Form1.resources
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.Form2.resources
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.Properties.Resources.resources
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.csproj.GenerateResource.cache
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.csproj.CoreCompileInputs.cache
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.exe
+C:\Users\andri\Downloads\Projekat\Projekat\obj\Debug\WindowsFormsAppAnastasija.pdb
